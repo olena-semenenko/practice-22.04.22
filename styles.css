@@ -79,7 +79,7 @@ color: #F07F2E;
     position: relative;
     border-radius: 16px;
     background: #0F3F3C;
-    background-image: url("/img/picture\ 1.jpg");  
+    background-image: url("img/picture\ 1.jpg");  
     background-repeat: no-repeat; 
     background-position: center;
     background-size: cover;
